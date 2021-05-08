@@ -6,4 +6,4 @@
 -  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=A6A6A6&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=100&section=footer&fontSize=90)
