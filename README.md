@@ -1,7 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Chea-young&fontSize=60)
 
-|<h3>😊 ME <h3> <br> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/Techblog-E85C33?style=flat-square&logoColor=white"/></a> </a>|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chea-young)](https://github.com/chea-young/github-readme-stats)|
-|-------------------------------------------|-------------------------------------------|
+<div style="float:left; margin-right: 10%;">
+    <h3 style="text-align:center">😊 ME <h3>
+    <p style="align=center;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/Techblog-E85C33?style=flat-square&logoColor=white"/>
+    </p>
+</div>
+
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chea-young)
+
+</div>
 
 ------------------------
 
