@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Chea-young&fontSize=60)
 
-<div style="float:left; margin-right: 10%;">
+<div float="left">
     <h3 style="text-align:center">😊 ME <h3>
     <p align="center">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/Techblog-E85C33?style=flat-square&logoColor=white"/>
