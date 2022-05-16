@@ -3,7 +3,10 @@
 <div float="left">
     <h3 style="text-align:center">😊 ME <h3>
     <p align="center">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/Techblog-E85C33?style=flat-square&logoColor=white"/>
+        <a href="lchy0413@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
+        </a>
+        <img src="https://img.shields.io/badge/Techblog-E85C33?style=flat-square&logoColor=white"/>
     </p>
 </div>
 
