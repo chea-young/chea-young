@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# use 'gh auth login' before using this script
+
 # Repository in the format "owner/repo"
 REPO=""
 
